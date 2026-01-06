@@ -1,0 +1,14 @@
+torch>=2.0.0
+transformers>=4.40.0
+accelerate
+peft
+bitsandbytes
+google-genai
+networkx
+pillow
+tqdm
+numpy
+pandas
+scikit-learn
+tensorboard
+qwen_vl_utils
